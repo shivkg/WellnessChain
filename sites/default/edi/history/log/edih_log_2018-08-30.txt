@@ -1,0 +1,15 @@
+20180830:170830 _GET request 
+ csvtbllist => yes 
+20180830:170830 _GET request 
+ archlist => yes 
+20180830:170830 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180830:170830 _GET request 
+ loglist => yes 
+20180830:170830 _GET request 
+ srvinfo => yes 
+20180830:170841 _GET request 
+ log_select => edih_log_2018-08-10.txt  logshowfile => getlog 
+20180830:170841 User: 27.56.177.182 - August 30, 2018, 5:07 pm
+20180830:170853 _GET request 
+ log_select => edih_log_2018-08-10.txt  logshowfile => getlog 
+20180830:170853 User: 27.56.177.182 - August 30, 2018, 5:07 pm

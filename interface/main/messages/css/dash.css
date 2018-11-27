@@ -1,0 +1,38 @@
+
+.hospital.clm {
+    text-align: center;
+    /* border: 1px solid #fff; */
+    margin-top: 50px;
+    padding: 12px 10px;
+    font-size: 16px;
+    color: #fff;
+    /*background: #f3f3f3;*/
+        background-position: center;
+    background: url(/public/ds_bg.jpg);
+    box-shadow: 2px 3px 9px #c0c0c0;
+    border-radius: 8px;
+    background-size: cover;
+    box-shadow: 2px 3px 9px #c0c0c0;
+    border-radius: 8px;
+  }
+
+a.hospital.clm:hover{
+  color: #fff !important;
+}
+.hospital.clm>.fa{
+	font-size: 28px;
+	color: #fff;
+}
+a.fa:hover{
+  font-size: 28px;
+  color: #fff;
+}
+
+
+#area-chart,
+#line-chart,
+#bar-chart,
+#stacked,
+#pie-chart{
+  min-height: 250px;
+}

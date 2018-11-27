@@ -1,0 +1,13 @@
+Generating claim 1-4 for AJAY  SINGH on 2018-08-08 06:59.
+*** Billing facility has no NPI.
+*** No billing facility NPI and/or ETIN.
+*** Error: Insurance information is missing!
+*** CMS ID is missing for payer ''.
+*** This claim has no charges!
+*** Referring provider has no NPI.
+*** Rendering provider is billing under a group.
+*** Skipping 2310B because ADMINISTRATOR,ADMINISTRATOR has invalid NPI.
+*** Supervising provider has invalid last name.
+*** Procedure '99212' is not justified!
+*** Procedure '99202' is not justified!
+

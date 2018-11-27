@@ -1,0 +1,62 @@
+20180903:040919 _GET request 
+ srvinfo => yes 
+20180903:040919 _GET request 
+ csvtbllist => yes 
+20180903:040919 _GET request 
+ loglist => yes 
+20180903:040919 _GET request 
+ archlist => yes 
+20180903:040919 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180903:070916 _GET request 
+ srvinfo => yes 
+20180903:070916 _GET request 
+ csvtbllist => yes 
+20180903:070916 _GET request 
+ loglist => yes 
+20180903:070916 _GET request 
+ archlist => yes 
+20180903:070916 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180903:070903 _GET request 
+ srvinfo => yes 
+20180903:070903 _GET request 
+ csvtbllist => yes 
+20180903:070903 _GET request 
+ loglist => yes 
+20180903:070903 _GET request 
+ archlist => yes 
+20180903:070903 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180903:070905 _GET request 
+ csvtbllist => yes 
+20180903:070905 _GET request 
+ process_html => htm  process_err => err  ProcessFiles => ProcessNew 
+20180903:070905 User: 103.61.252.108 - September 3, 2018, 7:32 am
+20180903:070905 edih_disp_file_process GET vars process_html htm  process_err err  ProcessFiles ProcessNew  
+20180903:070905 csv_processed_files_list: csv file does not exist files_f837.csv
+20180903:070905 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/process_bills.log]
+20180903:070905 invalid message string csv_check_x12_obj
+20180903:070905 edih_parse_select: error in file path
+20180903:070905 edih_csv_write(): invalid data array
+20180903:070905 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/2018-08-08-0659-batch.txt]
+20180903:070905 <p>
+edih_x12_segments: invalid delimiters<br />
+edih_x12_file: error in creating segment array 2018-08-08-0659-batch.txt
+<br />
+
+</p>
+
+20180903:070905 edih_parse_select: error in file path
+20180903:070905 edih_csv_write(): invalid data array
+20180903:070911 _GET request 
+ csv_period => 2w  csv_date_start =>   csv_date_end =>   csvShowTable => gettable 
+20180903:070911 User: 103.61.252.108 - September 3, 2018, 7:32 am
+20180903:070911 edih_disp_csvtable:  period 2w datestart  dateend 
+20180903:070913 _POST request 
+ viewx12Files => view_x12 
+20180903:070913 User: 103.61.252.108 - September 3, 2018, 7:32 am
+20180903:070913 edih_upload_files: _FILES error  No file was uploaded
+20180903:070913 edih_disp_x12file: rejected file  comment: No file was uploaded
+20180903:070915 _GET request 
+ archivelog => yes 
+20180903:070915 User: 103.61.252.108 - September 3, 2018, 7:32 am
+20180903:070915 _GET request 
+ loglist => yes 

@@ -1,0 +1,37 @@
+20180916:070950 _GET request 
+ csvtbllist => yes 
+20180916:070950 _GET request 
+ loglist => yes 
+20180916:070950 _GET request 
+ srvinfo => yes 
+20180916:070950 _GET request 
+ archlist => yes 
+20180916:070950 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180916:070953 _GET request 
+ process_html => htm  process_err => err  ProcessFiles => ProcessNew 
+20180916:070953 User: 202.173.125.121 - September 16, 2018, 7:13 am
+20180916:070953 edih_disp_file_process GET vars process_html htm  process_err err  ProcessFiles ProcessNew  
+20180916:070953 csv_processed_files_list: csv file does not exist files_f837.csv
+20180916:070953 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/process_bills.log]
+20180916:070953 invalid message string csv_check_x12_obj
+20180916:070953 edih_parse_select: error in file path
+20180916:070953 edih_csv_write(): invalid data array
+20180916:070953 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/2018-08-08-0659-batch.txt]
+20180916:070953 <p>
+edih_x12_segments: invalid delimiters<br />
+edih_x12_file: error in creating segment array 2018-08-08-0659-batch.txt
+<br />
+
+</p>
+
+20180916:070953 edih_parse_select: error in file path
+20180916:070953 edih_csv_write(): invalid data array
+20180916:070953 _GET request 
+ csvtbllist => yes 
+20180916:070901 _GET request 
+ archivereport => yes  period =>  
+20180916:070901 User: 202.173.125.121 - September 16, 2018, 7:14 am
+20180916:070901 GET archivereport:  archivereport yes period 
+20180916:070901 edih_archive_report: creating archive report with date None
+20180916:070901 csv_assoc_array; invalid csv file files_f837.csv
+20180916:070901 edih_archive_report: error f837 file count 2 with csv rows 0

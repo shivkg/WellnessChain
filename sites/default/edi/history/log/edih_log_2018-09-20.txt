@@ -1,0 +1,23 @@
+20180920:040946 _GET request 
+ srvinfo => yes 
+20180920:040946 _GET request 
+ csvtbllist => yes 
+20180920:040946 _GET request 
+ loglist => yes 
+20180920:040946 _GET request 
+ archlist => yes 
+20180920:040946 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180920:050924 _POST request 
+ viewx12Files => view_x12 
+20180920:050924 User: 202.173.125.91 - September 20, 2018, 5:02 am
+20180920:050924 edih_upload_files: _FILES error mime-type wc_coin.png mime-type image/png
+20180920:050924 edih_disp_x12file: rejected file wc_coin.png comment: mime-type image/png
+20180920:110914 _GET request 
+ srvinfo => yes 
+20180920:110914 _GET request 
+ csvtbllist => yes 
+20180920:110914 _GET request 
+ loglist => yes 
+20180920:110914 _GET request 
+ archlist => yes 
+20180920:110914 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive

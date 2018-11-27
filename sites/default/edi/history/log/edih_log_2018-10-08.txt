@@ -1,0 +1,9 @@
+20181008:051036 _GET request 
+ srvinfo => yes 
+20181008:051036 _GET request 
+ loglist => yes 
+20181008:051036 _GET request 
+ csvtbllist => yes 
+20181008:051036 _GET request 
+ archlist => yes 
+20181008:051036 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive

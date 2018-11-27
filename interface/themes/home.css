@@ -1,0 +1,288 @@
+/**
+* Login page stylesheet.
+*
+* LICENSE: This program is free software; you can redistribute it and/or
+* modify it under the terms of the GNU General Public License
+* as published by the Free Software Foundation; either version 2
+* of the License, or (at your option) any later version.
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+* You should have received a copy of the GNU General Public License
+* along with this program. If not, see <http://opensource.org/licenses/gpl-license.php>;.
+*
+* @package OpenEMR
+* @author  Robert Down <robertdown@live.com>
+* @link    http://www.open-emr.org
+*/
+
+/*body.login {
+    background: #f4f4f4;
+}
+*/
+.login-failure {
+    background-color: #ff5d5a;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    color: #fff;
+}
+.form-control{
+     background-color: rgba(0,0,0,0.6) !important;
+         color: #fff !Important;
+}
+.btn.login_btn {
+    text-transform: uppercase;
+    padding: 10px 40px;
+    background: rgba(0,0,0,0.6) !important;
+    color: #fff!important;
+    border: 1px solid;
+}
+input[type="text"] {
+    background-color: rgba(0,0,0,0.6) !important;
+    border: 1px solid #ccc;
+    padding: 18px;
+}
+.form-group {
+    margin-bottom: 15px !Important;
+}
+.logo-left {
+    float: left;
+}
+
+.login-title-label {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 130%;
+}
+
+.login-logo-wrapper {
+    max-width: 400px;
+}
+
+.tinylogopng
+{
+    width: 86px;
+    height: 43px;
+    margin-bottom: 10px;
+}
+
+img.login_logo {
+    width: 250px;
+}
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+
+
+/* ---- stats.js ---- */
+
+.count-particles{
+  background: #000022;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 80px;
+  color: #13E8E9;
+  font-size: .8em;
+  text-align: left;
+  text-indent: 4px;
+  line-height: 14px;
+  padding-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.js-count-particles{
+  font-size: 1.1em;
+}
+
+#stats,
+.count-particles{
+  -webkit-user-select: none;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#stats{
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+
+.count-particles{
+  border-radius: 0 0 3px 3px;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #58859c;
+  background-image: url('/public/images/home_back.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+@media and screen (max-width: 992px){
+    .login .container {
+     margin-top:0px; 
+    padding: 25px;
+    max-width: 100% !important;
+    background: rgba(0,0,0,0.6) !important;
+    position: absolute;
+    left: auto;
+    top: 31%;
+    border-radius: 10px;
+}
+
+.container.main_page {
+    margin-top: 19% !important;
+    padding: 25px;
+    max-width: 540px;
+    background: rgba(0,0,0,0.6) !important;
+    position: absolute;
+    left: auto;
+    border-radius: 10px;
+    min-height: auto;
+}
+.footer_bottom {
+    margin-top: 12%;
+}
+
+}
+.logo img {
+    width: 220px;
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;
+}
+.top_header_btn li {
+    margin-top: 15px;
+}
+.top_header_btn .css_button {
+    margin: 25px;
+}
+h2.title_headding {
+     margin-top: 5%;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+header.main_page{
+    background: #fff;
+
+}
+.container.main_page{
+      margin: 5% auto !important;
+    padding: 25px;
+    max-width: 540px;
+    background: rgba(0,0,0,0.6) !important;
+    position: sticky;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.register_part_left a {
+      text-decoration: none;
+    text-align: center;
+    margin-left: 27%;
+    font-size: 18px;
+    padding: 5px 30px;
+
+}
+a:hover{
+  text-decoration: none;
+}
+
+.register_part_right a{
+    text-align: center;
+    margin-left: 27%;
+    font-size: 18px;
+    padding: 5px 30px;
+    
+}
+
+.register_part_left {
+    width: 46%;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid #fff;
+}
+.register_part_right {
+    width: 46%;
+    display: inline-block;
+    text-align: center;
+    padding: 0 12px;
+}
+.main {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.home_main_page{
+  position: absolute;
+  width: 100%;
+  display: flex;
+flex-direction: column;
+}
+.footer_bottom {
+ 
+    background: #666;
+    color: #fff;
+    padding: 20px;   
+}
+.text-center{
+  text-align: center;
+}
+.footer_bottom p{
+  display: inline-block;
+  padding-top: 5px;
+}
+
+.main_cont{
+  height: calc(100vh - 158px);
+}
+.footer_pric{
+  display: inline-block;
+}
+.footer_pric a{
+  color: #fff;
+  text-decoration: none;
+}
+ ul.social_icon {
+    list-style: none;
+    display: inline-block;
+}
+.social_icon li {
+    list-style: none;
+    display: inline-block;
+}
+.social_icon li a> img {
+    width: 30px;
+    margin: 0 5px;
+}
+.main> img {
+    width: 70px;
+    display: block;
+    margin: auto;
+}
+.logo {
+    display: inline-block;
+}
+.top_header_btn {
+    float: right;
+}

@@ -1,0 +1,25 @@
+20180904:060910 _GET request 
+ srvinfo => yes 
+20180904:060910 _GET request 
+ csvtbllist => yes 
+20180904:060910 _GET request 
+ loglist => yes 
+20180904:060910 _GET request 
+ archlist => yes 
+20180904:060910 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180904:060922 _GET request 
+ archivereport => yes  period => 24m 
+20180904:060922 User: 103.61.252.108 - September 4, 2018, 6:25 am
+20180904:060922 GET archivereport:  archivereport yes period 24m
+20180904:060922 edih_archive_report: creating archive report with date 20160901
+20180904:060922 csv_assoc_array; invalid csv file files_f837.csv
+20180904:060922 edih_archive_report: error f837 file count 2 with csv rows 0
+20180904:120942 _GET request 
+ archlist => yes 
+20180904:120942 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180904:120942 _GET request 
+ csvtbllist => yes 
+20180904:120942 _GET request 
+ loglist => yes 
+20180904:120942 _GET request 
+ srvinfo => yes 

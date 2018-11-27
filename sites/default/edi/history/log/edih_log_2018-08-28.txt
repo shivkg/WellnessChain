@@ -1,0 +1,278 @@
+20180828:060813 _GET request 
+ csvtbllist => yes 
+20180828:060813 _GET request 
+ srvinfo => yes 
+20180828:060813 _GET request 
+ loglist => yes 
+20180828:060813 _GET request 
+ archlist => yes 
+20180828:060813 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060828 _GET request 
+ srvinfo => yes 
+20180828:060828 _GET request 
+ csvtbllist => yes 
+20180828:060828 _GET request 
+ archlist => yes 
+20180828:060828 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060828 _GET request 
+ loglist => yes 
+20180828:060847 _GET request 
+ srvinfo => yes 
+20180828:060847 _GET request 
+ csvtbllist => yes 
+20180828:060847 _GET request 
+ archlist => yes 
+20180828:060847 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060847 _GET request 
+ loglist => yes 
+20180828:060820 _GET request 
+ srvinfo => yes 
+20180828:060820 _GET request 
+ csvtbllist => yes 
+20180828:060820 _GET request 
+ loglist => yes 
+20180828:060820 _GET request 
+ archlist => yes 
+20180828:060820 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060830 _GET request 
+ csvtbllist => yes 
+20180828:060830 _GET request 
+ srvinfo => yes 
+20180828:060830 _GET request 
+ loglist => yes 
+20180828:060830 _GET request 
+ archlist => yes 
+20180828:060830 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060852 _GET request 
+ csvtbllist => yes 
+20180828:060852 _GET request 
+ srvinfo => yes 
+20180828:060853 _GET request 
+ loglist => yes 
+20180828:060853 _GET request 
+ archlist => yes 
+20180828:060853 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060816 _GET request 
+ srvinfo => yes 
+20180828:060816 _GET request 
+ csvtbllist => yes 
+20180828:060816 _GET request 
+ archlist => yes 
+20180828:060816 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060816 _GET request 
+ loglist => yes 
+20180828:060858 _GET request 
+ srvinfo => yes 
+20180828:060858 _GET request 
+ csvtbllist => yes 
+20180828:060858 _GET request 
+ loglist => yes 
+20180828:060858 _GET request 
+ archlist => yes 
+20180828:060858 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060800 _GET request 
+ srvinfo => yes 
+20180828:060800 _GET request 
+ loglist => yes 
+20180828:060800 _GET request 
+ csvtbllist => yes 
+20180828:060800 _GET request 
+ archlist => yes 
+20180828:060800 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060815 _GET request 
+ srvinfo => yes 
+20180828:060815 _GET request 
+ csvtbllist => yes 
+20180828:060815 _GET request 
+ loglist => yes 
+20180828:060815 _GET request 
+ archlist => yes 
+20180828:060815 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060823 _GET request 
+ srvinfo => yes 
+20180828:060823 _GET request 
+ csvtbllist => yes 
+20180828:060823 _GET request 
+ loglist => yes 
+20180828:060823 _GET request 
+ archlist => yes 
+20180828:060823 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060828 _GET request 
+ srvinfo => yes 
+20180828:060828 _GET request 
+ csvtbllist => yes 
+20180828:060828 _GET request 
+ loglist => yes 
+20180828:060828 _GET request 
+ archlist => yes 
+20180828:060828 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060859 _GET request 
+ srvinfo => yes 
+20180828:060859 _GET request 
+ loglist => yes 
+20180828:060859 _GET request 
+ csvtbllist => yes 
+20180828:060859 _GET request 
+ archlist => yes 
+20180828:060859 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060804 _GET request 
+ srvinfo => yes 
+20180828:060804 _GET request 
+ csvtbllist => yes 
+20180828:060804 _GET request 
+ loglist => yes 
+20180828:060804 _GET request 
+ archlist => yes 
+20180828:060804 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060852 _GET request 
+ srvinfo => yes 
+20180828:060852 _GET request 
+ csvtbllist => yes 
+20180828:060852 _GET request 
+ loglist => yes 
+20180828:060852 _GET request 
+ archlist => yes 
+20180828:060852 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060807 _GET request 
+ process_html => htm  process_err => err  ProcessFiles => ProcessNew 
+20180828:060807 User: 202.173.125.193 - August 28, 2018, 6:27 am
+20180828:060807 edih_disp_file_process GET vars process_html htm  process_err err  ProcessFiles ProcessNew  
+20180828:060807 csv_processed_files_list: csv file does not exist files_f837.csv
+20180828:060807 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/process_bills.log]
+20180828:060807 invalid message string csv_check_x12_obj
+20180828:060807 edih_parse_select: error in file path
+20180828:060807 edih_csv_write(): invalid data array
+20180828:060807 csv_check_x12_obj: object missing properties [/var/www/html/sites/default/edi/2018-08-08-0659-batch.txt]
+20180828:060807 <p>
+edih_x12_segments: invalid delimiters<br />
+edih_x12_file: error in creating segment array 2018-08-08-0659-batch.txt
+<br />
+
+</p>
+
+20180828:060807 edih_parse_select: error in file path
+20180828:060807 edih_csv_write(): invalid data array
+20180828:060807 _GET request 
+ csvtbllist => yes 
+20180828:060830 _GET request 
+ srvinfo => yes 
+20180828:060830 _GET request 
+ csvtbllist => yes 
+20180828:060830 _GET request 
+ loglist => yes 
+20180828:060830 _GET request 
+ archlist => yes 
+20180828:060830 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060819 _GET request 
+ srvinfo => yes 
+20180828:060819 _GET request 
+ csvtbllist => yes 
+20180828:060819 _GET request 
+ loglist => yes 
+20180828:060819 _GET request 
+ archlist => yes 
+20180828:060819 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060829 _GET request 
+ csvtbllist => yes 
+20180828:060829 _GET request 
+ srvinfo => yes 
+20180828:060829 _GET request 
+ loglist => yes 
+20180828:060829 _GET request 
+ archlist => yes 
+20180828:060829 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060836 _GET request 
+ srvinfo => yes 
+20180828:060836 _GET request 
+ csvtbllist => yes 
+20180828:060836 _GET request 
+ loglist => yes 
+20180828:060836 _GET request 
+ archlist => yes 
+20180828:060836 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060832 _GET request 
+ srvinfo => yes 
+20180828:060832 _GET request 
+ csvtbllist => yes 
+20180828:060833 _GET request 
+ loglist => yes 
+20180828:060833 _GET request 
+ archlist => yes 
+20180828:060833 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060808 _GET request 
+ csvtbllist => yes 
+20180828:060808 _GET request 
+ srvinfo => yes 
+20180828:060808 _GET request 
+ archlist => yes 
+20180828:060808 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060808 _GET request 
+ loglist => yes 
+20180828:060803 _GET request 
+ srvinfo => yes 
+20180828:060803 _GET request 
+ csvtbllist => yes 
+20180828:060803 _GET request 
+ loglist => yes 
+20180828:060803 _GET request 
+ archlist => yes 
+20180828:060803 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060821 _GET request 
+ srvinfo => yes 
+20180828:060821 _GET request 
+ csvtbllist => yes 
+20180828:060821 _GET request 
+ loglist => yes 
+20180828:060821 _GET request 
+ archlist => yes 
+20180828:060821 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060810 _GET request 
+ srvinfo => yes 
+20180828:060810 _GET request 
+ loglist => yes 
+20180828:060810 _GET request 
+ csvtbllist => yes 
+20180828:060810 _GET request 
+ archlist => yes 
+20180828:060810 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060818 _GET request 
+ srvinfo => yes 
+20180828:060818 _GET request 
+ csvtbllist => yes 
+20180828:060818 _GET request 
+ loglist => yes 
+20180828:060818 _GET request 
+ archlist => yes 
+20180828:060818 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060828 _GET request 
+ srvinfo => yes 
+20180828:060828 _GET request 
+ csvtbllist => yes 
+20180828:060828 _GET request 
+ loglist => yes 
+20180828:060828 _GET request 
+ archlist => yes 
+20180828:060828 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060846 _GET request 
+ csvtbllist => yes 
+20180828:060846 _GET request 
+ loglist => yes 
+20180828:060846 _GET request 
+ srvinfo => yes 
+20180828:060846 _GET request 
+ archlist => yes 
+20180828:060846 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
+20180828:060848 _GET request 
+ loglist => yes 
+20180828:060848 _GET request 
+ archivelog => yes 
+20180828:060848 User: 202.173.125.193 - August 28, 2018, 6:54 am
+20180828:070854 _GET request 
+ srvinfo => yes 
+20180828:070855 _GET request 
+ csvtbllist => yes 
+20180828:070855 _GET request 
+ loglist => yes 
+20180828:070856 _GET request 
+ archlist => yes 
+20180828:070856 csv_archive_select_list: using /var/www/html/sites/default/edi/history/archive
